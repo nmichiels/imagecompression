@@ -1,0 +1,3 @@
+Voor de decompressie en compressie kan je help opvragen door de volgende constructie in cmd:
+Compress --help
+Decompress --help

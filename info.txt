@@ -1,0 +1,11 @@
+Het hoofdprogramma is gemaakt met een GUI. Hiernaast is het ook mogelijk om een compressie en decompressie in console te doen.
+Info voor de console kan u vinden in de bin-map van console. Voor meer help moet u '--help' als argument meegeven.
+
+Gebruik van de GUI:
+
+Er kan een *.raw file ingelezen worden via menubalk 'File' -> 'Open'.
+Vervolgens kunt u opties zoals quantisation start en raise of blocksize instellen.
+Door op de compress-knop te drukken gaat u in het rechterscherm de gecomprimeerde afbeeling krijgen.
+Via menubalk 'File' -> 'Save' kan deze dan worden opgeslagen in het '*.comp'-formaat.
+
+Extra opties zijn een gecomprimeerde afbeeling opslagen als *raw of een afbeelding in het gecomprimeerde formaat *.comp openen om opnieuw te comprimeren.
